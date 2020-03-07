@@ -1,7 +1,0 @@
-README.md
-setup.py
-dev/__init__.py
-tao_nguyen.egg-info/PKG-INFO
-tao_nguyen.egg-info/SOURCES.txt
-tao_nguyen.egg-info/dependency_links.txt
-tao_nguyen.egg-info/top_level.txt
