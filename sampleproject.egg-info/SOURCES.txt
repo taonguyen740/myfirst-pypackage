@@ -1,0 +1,9 @@
+README.md
+setup.py
+firstpkg/__init__.py
+firstpkg/nestedpkg/__init__.py
+sampleproject.egg-info/PKG-INFO
+sampleproject.egg-info/SOURCES.txt
+sampleproject.egg-info/dependency_links.txt
+sampleproject.egg-info/requires.txt
+sampleproject.egg-info/top_level.txt

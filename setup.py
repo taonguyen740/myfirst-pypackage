@@ -118,7 +118,7 @@ setup(
     #
     #   py_modules=["my_module"],
     #
-    packages=find_packages(exclude=["contrib", "docs", "tests"]),  # Required
+    packages=find_packages(include=["firstpkg.*"],exclude=["contrib", "docs", "tests"]),  # Required
     # Specify which Python versions you support. In contrast to the
     # 'Programming Language' classifiers above, 'pip install' will check this
     # and refuse to install the project if the version does not match. If you
